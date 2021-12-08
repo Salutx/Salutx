@@ -1,6 +1,6 @@
 ##  - Profile| Salutx.
 > Welcome to my profile! 
-**First of all**, I would like you to see my profile status.
+> **First of all**, I would like you to see my profile status.
 > My name is **Lucas**, but feel free to call me **Salutx**.
 
 

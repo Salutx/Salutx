@@ -12,7 +12,7 @@ Welcome to my profile!
 - :part_alternation_mark: Lover UI/UX Design & FrontEnd.
 - :large_orange_diamond: Discord: `Salutx#8113`
 
-![Salutx GitHub stats](https://github-readme-stats.vercel.app/api?username=Salutx&show_icons=true&hide_border=false&title_color=9966ff&theme=tokyonight)
+![Salutx GitHub stats](https://github-readme-stats.vercel.app/api?username=Salutx&show_icons=true&hide_border=true&title_color=9966ff&theme=tokyonight)
 
 ## Technologies (which I use) ![#9966ff](https://via.placeholder.com/10/9966ff/ffffff?text=+) 
 

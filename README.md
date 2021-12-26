@@ -24,6 +24,7 @@ I'm a **WebDeveloper**, below I'll list some of the languages, <br>technologies 
 ![php](https://img.shields.io/badge/PHP-9966ff?style=for-the-badge&logo=php&logoColor=white)
 ![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-9966ff?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)<br>
 ![node](https://img.shields.io/badge/Node.js-00000F?style=for-the-badge&logo=node.js&logoColor=9966ff)
+![javascript](https://img.shields.io/badge/Java-00000F?style=for-the-badge&logo=java&logoColor=9966ff)
 ![javascript](https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=9966ff)
 ![react](https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=react&logoColor=9966ff)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=9966ff)

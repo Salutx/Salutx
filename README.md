@@ -10,7 +10,7 @@ Welcome to my profile!
 ##### About me
 - :trident: Always learning.
 - :part_alternation_mark: Lover UI/UX Design & FrontEnd.
-- :large_orange_diamond: Discord: `Salutx#8113`
+- :large_orange_diamond: Discord: `Salutx#0001`
 
 ![SalutxGitHub stats](https://github-readme-stats.vercel.app/api?username=Salutx&show_icons=true&hide_border=true&title_color=9966ff&theme=tokyonight&13)
 

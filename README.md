@@ -1,4 +1,4 @@
-##  Lucas Matos - WebDeveloper ![#9966ff](https://via.placeholder.com/10/9966ff/ffffff?text=+) 
+##  Lucas Matos - WebDeveloper
 
 Welcome to my profile! 
 <br>**First of all**, I would like you to see my profile status.
@@ -14,7 +14,7 @@ Welcome to my profile!
 
 ![SalutxGitHub stats](https://github-readme-stats.vercel.app/api?username=Salutx&show_icons=true&hide_border=true&title_color=9966ff&theme=tokyonight&13)
 
-## Technologies (which I use) ![#9966ff](https://via.placeholder.com/10/9966ff/ffffff?text=+) 
+## Technologies (which i use)
 
 I'm a **WebDeveloper**, below I'll list some of the languages, <br>technologies and frameworks I use the most in my projects:
 
@@ -31,7 +31,7 @@ I'm a **WebDeveloper**, below I'll list some of the languages, <br>technologies 
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=salutx&layout=compact&hide_border=true&title_color=9966ff&theme=tokyonight&13)
 
-## My Projects ![#9966ff](https://via.placeholder.com/10/9966ff/ffffff?text=+) 
+## My Projects
 - PrimeiraMente (<a href="https://github.com/Salutx/PrimeiraMente">Repository</a>) :space_invader:
 - Mediafire-Redesign (<a href="https://github.com/Salutx/MediaFire">Repository</a>) :space_invader:
 - Instagram-Clone (<a href="https://github.com/Salutx/instagram-clone">Repository</a>) :space_invader:
@@ -46,8 +46,5 @@ I'm a **WebDeveloper**, below I'll list some of the languages, <br>technologies 
 - System SMH (Not finished)
 - MynthBot (Not finished)
 - TrasherBot (Not finished)
-
-
-
 
 *Salutx, apprentice.*

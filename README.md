@@ -12,7 +12,7 @@ Welcome to my profile!
 - :part_alternation_mark: Lover UI/UX Design & FrontEnd.
 - :large_orange_diamond: Discord: `Salutx#2436`
 
-![SalutxGitHub stats](https://github-readme-stats.vercel.app/api?username=Salutx&show_icons=true&hide_border=true&title_color=9966ff&theme=tokyonight&17)
+![SalutxGitHub stats](https://github-readme-stats.vercel.app/api?username=Salutx&show_icons=true&hide_border=true&title_color=9966ff&theme=tokyonight&18)
 
 ## Technologies (which i use)
 
@@ -29,7 +29,7 @@ I'm a **WebDeveloper**, below I'll list some of the languages, <br>technologies 
 ![react](https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=react&logoColor=9966ff)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=9966ff)
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=salutx&layout=compact&hide_border=true&title_color=9966ff&theme=tokyonight&16)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=salutx&layout=compact&hide_border=true&title_color=9966ff&theme=tokyonight&17)
 
 ## My Projects
 - PrimeiraMente (<a href="https://github.com/Salutx/PrimeiraMente">Repository</a>) :space_invader:

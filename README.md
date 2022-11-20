@@ -1,4 +1,4 @@
-##  Lucas Matos - WebDeveloper
+##  Lucas Matos - Frontend Developer
 
 Welcome to my profile! 
 <br>**First of all**, I would like you to see my profile status.
@@ -12,11 +12,11 @@ Welcome to my profile!
 - :part_alternation_mark: Lover UI/UX Design & FrontEnd.
 - :large_orange_diamond: Discord: `Salutx#2436`
 
-![SalutxGitHub stats](https://github-readme-stats.vercel.app/api?username=Salutx&show_icons=true&hide_border=true&title_color=9966ff&theme=tokyonight&19)
+![SalutxGitHub stats](https://github-readme-stats.vercel.app/api?username=Salutx&show_icons=true&hide_border=true&title_color=9966ff&theme=tokyonight&20)
 
 ## Technologies (which i use)
 
-I'm a **WebDeveloper**, below I'll list some of the languages, <br>technologies and frameworks I use the most in my projects:
+I'm a **Frontend Developer JR**, below I'll list some of the languages, <br>technologies and frameworks I use the most in my projects:
 
 ![html5](https://img.shields.io/badge/HTML5-9966ff?style=for-the-badge&logo=html5&logoColor=white) 
 ![css](https://img.shields.io/badge/CSS3-9966ff?style=for-the-badge&logo=css3&logoColor=white) 
@@ -29,7 +29,7 @@ I'm a **WebDeveloper**, below I'll list some of the languages, <br>technologies 
 ![react](https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=react&logoColor=9966ff)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=9966ff)
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=salutx&layout=compact&hide_border=true&title_color=9966ff&theme=tokyonight&19)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=salutx&layout=compact&hide_border=true&title_color=9966ff&theme=tokyonight&20)
 
 ## My Projects
 - PrimeiraMente (<a href="https://github.com/Salutx/PrimeiraMente">Repository</a>) :space_invader:

@@ -2,7 +2,7 @@
 
 Welcome to my profile! 
 <br>**First of all**, I would like you to see my profile status.
-<br>My name is `Lucas`, but feel free to call me `Salutx`.
+<br>My name is **Lucas**, but feel free to call me **Salutx**.
 <br>
 
 ![image](https://img.shields.io/badge/Profile-04202C?style=for-the-badge&logo=github&logoColor=9AB8C6)
@@ -10,7 +10,7 @@ Welcome to my profile!
 ##### About me
 - :snowflake: Always learning.
 - :snowflake: Lover UI/UX Design & FrontEnd.
-- :snowflake: Discord: `Salutx#2436`
+- :snowflake: Discord: **Salutx#2436**
 
 ![SalutxGitHub stats](https://github-readme-stats-408gge7pw-zhorzon.vercel.app/api?username=Salutx&show_icons=true&hide_border=true&title_color=A4E3FF&bg_color=04202C&border_radius=2&text_color=9AB8C6&custom_title=My+Dashboard)
 

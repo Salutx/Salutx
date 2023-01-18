@@ -5,46 +5,43 @@ Welcome to my profile!
 <br>My name is `Lucas`, but feel free to call me `Salutx`.
 <br>
 
-![image](https://img.shields.io/badge/Profile-100000?style=for-the-badge&logo=github&logoColor=9966ff)
+![image](https://img.shields.io/badge/Profile-04202C?style=for-the-badge&logo=github&logoColor=9AB8C6)
 
 ##### About me
-- :trident: Always learning.
-- :part_alternation_mark: Lover UI/UX Design & FrontEnd.
-- :large_orange_diamond: Discord: `Salutx#2436`
+- :snowflake: Always learning.
+- :snowflake: Lover UI/UX Design & FrontEnd.
+- :snowflake: Discord: `Salutx#2436`
 
-![SalutxGitHub stats](https://github-readme-stats-408gge7pw-zhorzon.vercel.app/api?username=Salutx&show_icons=true&hide_border=true&title_color=9966ff&theme=tokyonight&21)
+![SalutxGitHub stats](https://github-readme-stats-408gge7pw-zhorzon.vercel.app/api?username=Salutx&show_icons=true&hide_border=true&title_color=A4E3FF&bg_color=04202C&border_radius=2&text_color=9AB8C6&custom_title=My+Dashboard)
 
 ## Technologies (which i use)
 
-I'm a **Frontend Developer JR**, below I'll list some of the languages, <br>technologies and frameworks I use the most in my projects:
+I'm a **Frontend Developer**, below I'll list some of the languages, <br>technologies and frameworks I use the most in my projects:
 
-![html5](https://img.shields.io/badge/HTML5-9966ff?style=for-the-badge&logo=html5&logoColor=white) 
-![css](https://img.shields.io/badge/CSS3-9966ff?style=for-the-badge&logo=css3&logoColor=white) 
-![bootstrap](https://img.shields.io/badge/Bootstrap-9966ff?style=for-the-badge&logo=bootstrap&logoColor=white)
-![php](https://img.shields.io/badge/PHP-9966ff?style=for-the-badge&logo=php&logoColor=white)
-![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-9966ff?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)<br>
-![node](https://img.shields.io/badge/Node.js-00000F?style=for-the-badge&logo=node.js&logoColor=9966ff)
-![javascript](https://img.shields.io/badge/Java-00000F?style=for-the-badge&logo=java&logoColor=9966ff)
-![javascript](https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=9966ff)
-![react](https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=react&logoColor=9966ff)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=9966ff)
+![html5](https://img.shields.io/badge/HTML5-04202C?style=for-the-badge&logo=html5&logoColor=9AB8C6) 
+![css](https://img.shields.io/badge/CSS3-04202C?style=for-the-badge&logo=css3&logoColor=9AB8C6) 
+![javascript](https://img.shields.io/badge/JavaScript-04202C?style=for-the-badge&logo=javascript&logoColor=9AB8C6)<br>
+![react](https://img.shields.io/badge/ReactJs-04202C?style=for-the-badge&logo=react&logoColor=9AB8C6)
+![node](https://img.shields.io/badge/Node.js-04202C?style=for-the-badge&logo=node.js&logoColor=9AB8C6)
+![material-ui](https://img.shields.io/badge/MaterialUI-04202C?style=for-the-badge&logo=mui&logoColor=9AB8C6)<br>
+![figma](https://img.shields.io/badge/Figma-04202C?style=for-the-badge&logo=Figma&logoColor=9AB8C6)
+![mysql](https://img.shields.io/badge/MySQL-04202C?style=for-the-badge&logo=mysql&logoColor=9AB8C6)
 
-![TopLangs](https://github-readme-stats-408gge7pw-zhorzon.vercel.app/api/top-langs/?username=salutx&layout=compact&hide_border=true&title_color=9966ff&theme=tokyonight&21)
-
+![TopLangs](https://github-readme-stats-408gge7pw-zhorzon.vercel.app/api/top-langs/?username=salutx&layout=compact&hide_border=true&title_color=A4E3FF&bg_color=04202C&border_radius=2&text_color=9AB8C6&custom_title=My+Languages&layout=compact)
 ## My Projects
-- Mindset-Student (<a href="https://github.com/Salutx/mindset-student">Repository</a>) :space_invader:
-- PrimeiraMente (<a href="https://github.com/Salutx/PrimeiraMente">Repository</a>) :space_invader:
-- Mediafire-Redesign (<a href="https://github.com/Salutx/MediaFire">Repository</a>) :space_invader:
-- Instagram-Clone (<a href="https://github.com/Salutx/instagram-clone">Repository</a>) :space_invader:
-- Druman (<a href="https://github.com/Salutx/Druman">Repository</a>) :space_invader:
-- RocketNFTs (<a href="https://github.com/Salutx/RocketNFTs">Repository</a>) :space_invader:
-- RocketCoffe (<a href="https://github.com/Salutx/RocketCoffe">Repository</a>) :space_invader:
-- RocketBlog (<a href="https://github.com/Salutx/RocketBlog">Repository</a>) :space_invader:
-- Login-Forms (<a href="https://github.com/Salutx/Login-Forms">See models</a>) :space_invader:
-- Pricing-Tables (<a href="https://github.com/Salutx/Pricing-Tables">See models</a>) :space_invader:
-- MynthBot (<a href="https://github.com/Salutx/MynthBot">See models</a>) :space_invader:
-- Facebook-Clone (Not finished)
-- Portfolio (Not finished)
+- Mindset-Student (<a href="https://github.com/Salutx/mindset-student">Repository</a>) :snowflake:
+- MynthBot (<a href="https://github.com/Salutx/MynthBot">See models</a>) :snowflake:
+- Typing-test (<a href="https://github.com/Salutx/typing-test">See models</a>) :snowflake:
+- PrimeiraMente (<a href="https://github.com/Salutx/PrimeiraMente">Repository</a>) :snowflake:
+- Mediafire-Redesign (<a href="https://github.com/Salutx/MediaFire">Repository</a>) :snowflake:
+- Instagram-Clone (<a href="https://github.com/Salutx/instagram-clone">Repository</a>) :snowflake:
+- Druman (<a href="https://github.com/Salutx/Druman">Repository</a>) :snowflake:
+- RocketNFTs (<a href="https://github.com/Salutx/RocketNFTs">Repository</a>) :snowflake:
+- RocketCoffe (<a href="https://github.com/Salutx/RocketCoffe">Repository</a>) :snowflake:
+- RocketBlog (<a href="https://github.com/Salutx/RocketBlog">Repository</a>) :snowflake:
+- Login-Forms (<a href="https://github.com/Salutx/Login-Forms">See models</a>) :snowflake:
+- Pricing-Tables (<a href="https://github.com/Salutx/Pricing-Tables">See models</a>) :snowflake:
+- Portfolio (Privated) :snowflake:
 - System SMH (Not finished)
 - TrasherBot (Not finished)
 

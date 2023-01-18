@@ -1,4 +1,4 @@
-##  Lucas Matos - Frontend Developer
+<img src="https://i.imgur.com/eV95lLu.png" width="100%">
 
 Welcome to my profile! 
 <br>**First of all**, I would like you to see my profile status.

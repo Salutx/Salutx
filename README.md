@@ -1,8 +1,4 @@
-<img src="https://i.imgur.com/PE5w34O.png" width="100%">
-
-<hr/>
-
-## Lucas (Salutx) Matos
+# Lucas (Salutx) Matos
 
 Welcome to my profile! 
 <br>**First of all**, I would like you to see my profile status.
@@ -56,3 +52,7 @@ I'm a **Frontend Developer**, below I'll list some of the languages, <br>technol
 - TrasherBot (Not finished)
 
 *Salutx, apprentice.*
+
+<hr/>
+
+<img src="https://i.imgur.com/PE5w34O.png" width="100%">

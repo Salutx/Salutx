@@ -32,6 +32,7 @@ I'm a **Frontend Developer JR**, below I'll list some of the languages, <br>tech
 ![TopLangs](https://github-readme-stats-408gge7pw-zhorzon.vercel.app/api/top-langs/?username=salutx&layout=compact&hide_border=true&title_color=9966ff&theme=tokyonight&21)
 
 ## My Projects
+- Mindset-Student (<a href="https://github.com/Salutx/mindset-student">Repository</a>) :space_invader:
 - PrimeiraMente (<a href="https://github.com/Salutx/PrimeiraMente">Repository</a>) :space_invader:
 - Mediafire-Redesign (<a href="https://github.com/Salutx/MediaFire">Repository</a>) :space_invader:
 - Instagram-Clone (<a href="https://github.com/Salutx/instagram-clone">Repository</a>) :space_invader:

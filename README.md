@@ -1,5 +1,9 @@
 <img src="https://i.imgur.com/eV95lLu.png" width="100%">
 
+<hr/>
+
+## Lucas (Salutx) Matos
+
 Welcome to my profile! 
 <br>**First of all**, I would like you to see my profile status.
 <br>My name is **Lucas**, but feel free to call me **Salutx**.

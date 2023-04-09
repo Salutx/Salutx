@@ -15,7 +15,7 @@ Welcome to my profile!
 ##### Social Media
 - :snowflake: <a href="https://github.com/Salutx">Github</a>
 - :snowflake: <a href="https://www.linkedin/in/salutx">Linkedin</a>
-- :snowflake: <a href="https://www.instagram.com/salutx.dev">Instagram</a>
+- :snowflake: <a href="https://www.instagram.com/olucasdev">Instagram</a>
 - :snowflake: <a href="https://salutx.me">Visit my portfolio</a>
 
 ![SalutxGitHub stats](https://github-readme-stats-408gge7pw-zhorzon.vercel.app/api?username=Salutx&show_icons=true&hide_border=true&title_color=A4E3FF&bg_color=04202C&border_radius=2&text_color=9AB8C6&custom_title=My+Dashboard)

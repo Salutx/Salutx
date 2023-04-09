@@ -1,4 +1,4 @@
-# Lucas (Salutx) Matos
+# Lucas Matos | Software Engineer
 
 Welcome to my profile! 
 <br>**First of all**, I would like you to see my profile status.

@@ -22,7 +22,7 @@ Welcome to my profile!
 
 ## Technologies (which i use)
 
-I'm a **Frontend Developer**, below I'll list some of the languages, <br>technologies and frameworks I use the most in my projects:
+I'm a **Software Engineer** focused on the frontend, below I'll list some of the languages, <br>technologies and frameworks I use the most in my projects:
 
 ![html5](https://img.shields.io/badge/HTML5-04202C?style=for-the-badge&logo=html5&logoColor=9AB8C6) 
 ![css](https://img.shields.io/badge/CSS3-04202C?style=for-the-badge&logo=css3&logoColor=9AB8C6) 

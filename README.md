@@ -55,4 +55,4 @@ I'm a **Software Engineer** focused on the frontend, below I'll list some of the
 
 <hr/>
 
-<img src="https://i.imgur.com/PE5w34O.png" width="100%">
+<img src="https://i.imgur.com/sbGdU5R.png" width="100%">

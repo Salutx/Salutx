@@ -18,7 +18,7 @@ Welcome to my profile!
 - :snowflake: <a href="https://www.instagram.com/olucasdev">Instagram</a>
 - :snowflake: <a href="https://salutx.me">Visit my portfolio</a>
 
-![SalutxGitHub stats](https://github-readme-stats-408gge7pw-zhorzon.vercel.app/api?username=Salutx&show_icons=true&hide_border=true&title_color=A4E3FF&bg_color=04202C&border_radius=2&text_color=9AB8C6&custom_title=My+Dashboard)
+![SalutxGitHub stats](https://github-readme-stats-408gge7pw-zhorzon.vercel.app/api?username=Salutx&show_icons=true&hide_border=true&title_color=A4E3FF&bg_color=04202C&border_radius=2&text_color=9AB8C6&custom_title=My+Dashboard&2)
 
 ## Technologies (which i use)
 
@@ -33,7 +33,7 @@ I'm a **Software Engineer** focused on the frontend, below I'll list some of the
 ![figma](https://img.shields.io/badge/Figma-04202C?style=for-the-badge&logo=Figma&logoColor=9AB8C6)
 ![mysql](https://img.shields.io/badge/MySQL-04202C?style=for-the-badge&logo=mysql&logoColor=9AB8C6)
 
-![TopLangs](https://github-readme-stats-408gge7pw-zhorzon.vercel.app/api/top-langs/?username=salutx&layout=compact&hide_border=true&title_color=A4E3FF&bg_color=04202C&border_radius=2&text_color=9AB8C6&custom_title=My+Languages&layout=compact)
+![TopLangs](https://github-readme-stats-408gge7pw-zhorzon.vercel.app/api/top-langs/?username=salutx&layout=compact&hide_border=true&title_color=A4E3FF&bg_color=04202C&border_radius=2&text_color=9AB8C6&custom_title=My+Languages&layout=compact&2)
 ## My Projects
 - Mindset-Student (<a href="https://github.com/Salutx/mindset-student">Repository</a>) :snowflake:
 - MynthBot (<a href="https://github.com/Salutx/MynthBot">See models</a>) :snowflake:
